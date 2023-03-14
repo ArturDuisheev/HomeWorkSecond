@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeWorkThreeMonthChapterTwo</string>
+    <string name="next_button">NEXT</string>
+    <string name="welcome_text">Hello Guest, Please write your name</string>
+    <string name="welcome_text_two">Hello Guest, Please write your surname</string>
+    <string name="welcome_text_three">Hello Guest, Please write your FatherName</string>
+    <string name="welcome_text_four">Hello Guest, Please write your Age</string>
+    <string name="firstname_str">Name</string>
+    <string name="firstname_text">surname</string>
+    <string name="fathername_text">FatherName</string>
+    <string name="age_text">Age</string>
+</resources>
